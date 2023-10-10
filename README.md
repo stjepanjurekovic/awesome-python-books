@@ -52,6 +52,7 @@
 - *Effective Python: 59 Specific Ways to Write Better Python* [English Edition](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134034287)
 - *Fluent Python* by Luciano Ramalho [English Edition](http://www.amazon.com/Fluent-Python-Luciano-Ramalho/dp/1491946008)
 - *Learning Python Design Patterns* by Chetan Giridhar [English 2nd Edition](http://www.amazon.com/Learning-Python-Design-Patterns-Second/dp/178588803X)
+- *Learn AI-Assisted Python Programming* by Leo Porter and Daniel Zingaro [English Edition](https://www.manning.com/books/learn-ai-assisted-python-programming)
 - *Mastering Python Design Patterns* by Sakis Kasampalis [English Edition](https://www.amazon.com/Mastering-Python-Design-Patterns-Kasampalis/dp/1783989327)
 - *The Well-Grounded Python Developer* by Doug Farrell [English Edition](https://www.manning.com/books/the-well-grounded-python-developer?a_aid=the_well_grounded_python_developer&a_bid=e505681b)
 - *Publishing Python Packages* by Dane Hillard [English Edition](https://www.manning.com/books/publishing-python-packages)
